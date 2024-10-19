@@ -1,0 +1,247 @@
+{
+  "430×932": {
+    "Small": {
+      "width": 170,
+      "height": 170
+    },
+    "Medium": {
+      "width": 364,
+      "height": 170
+    },
+    "Large": {
+      "width": 364,
+      "height": 382
+    },
+    "Circular": {
+      "width": 76,
+      "height": 76
+    },
+    "Rectangular": {
+      "width": 172,
+      "height": 76
+    },
+    "Inline": {
+      "width": 257,
+      "height": 26
+    }
+  },
+  "428x926": {
+    "Small": {
+      "width": 170,
+      "height": 170
+    },
+    "Medium": {
+      "width": 364,
+      "height": 170
+    },
+    "Large": {
+      "width": 364,
+      "height": 382
+    },
+    "Circular": {
+      "width": 76,
+      "height": 76
+    },
+    "Rectangular": {
+      "width": 172,
+      "height": 76
+    },
+    "Inline": {
+      "width": 257,
+      "height": 26
+    }
+  },
+  "414x896": {
+    "Small": {
+      "width": 169,
+      "height": 169
+    },
+    "Medium": {
+      "width": 360,
+      "height": 169
+    },
+    "Large": {
+      "width": 360,
+      "height": 379
+    },
+    "Circular": {
+      "width": 76,
+      "height": 76
+    },
+    "Rectangular": {
+      "width": 160,
+      "height": 72
+    },
+    "Inline": {
+      "width": 248,
+      "height": 26
+    }
+  },
+  "414x736": {
+    "Small": {
+      "width": 159,
+      "height": 159
+    },
+    "Medium": {
+      "width": 348,
+      "height": 157
+    },
+    "Large": {
+      "width": 348,
+      "height": 357
+    },
+    "Circular": {
+      "width": 76,
+      "height": 76
+    },
+    "Rectangular": "170x76",
+    "Inline": "248x26"
+  },
+  "393x852": {
+    "Small": {
+      "width": 158,
+      "height": 158
+    },
+    "Medium": {
+      "width": 338,
+      "height": 158
+    },
+    "Large": {
+      "width": 338,
+      "height": 354
+    },
+    "Circular": {
+      "width": 72,
+      "height": 72
+    },
+    "Rectangular": {
+      "width": 160,
+      "height": 72
+    },
+    "Inline": {
+      "width": 234,
+      "height": 26
+    }
+  },
+  "390x844": {
+    "Small": {
+      "width": 158,
+      "height": 158
+    },
+    "Medium": {
+      "width": 338,
+      "height": 158
+    },
+    "Large": {
+      "width": 338,
+      "height": 354
+    },
+    "Circular": {
+      "width": 72,
+      "height": 72
+    },
+    "Rectangular": {
+      "width": 160,
+      "height": 72
+    },
+    "Inline": {
+      "width": 234,
+      "height": 26
+    }
+  },
+  "375x812": {
+    "Small": {
+      "width": 155,
+      "height": 155
+    },
+    "Medium": {
+      "width": 329,
+      "height": 155
+    },
+    "Large": {
+      "width": 329,
+      "height": 345
+    },
+    "Circular": {
+      "width": 72,
+      "height": 72
+    },
+    "Rectangular": {
+      "width": 152,
+      "height": 72
+    },
+    "Inline": {
+      "width": 225,
+      "height": 26
+    }
+  },
+  "375x667": {
+    "Small": {
+      "width": 148,
+      "height": 148
+    },
+    "Medium": {
+      "width": 321,
+      "height": 148
+    },
+    "Large": {
+      "width": 321,
+      "height": 324
+    },
+    "Circular": {
+      "width": 68,
+      "height": 68
+    },
+    "Rectangular": {
+      "width": 153,
+      "height": 68
+    },
+    "Inline": {
+      "width": 225,
+      "height": 26
+    }
+  },
+  "360x780": {
+    "Small": {
+      "width": 155,
+      "height": 155
+    },
+    "Medium": {
+      "width": 329,
+      "height": 55
+    },
+    "Large": {
+      "width": 329,
+      "height": 345
+    },
+    "Circular": {
+      "width": 72,
+      "height": 72
+    },
+    "Rectangular": {
+      "width": 157,
+      "height": 72
+    },
+    "Inline": {
+      "width": 225,
+      "height": 26
+    }
+  },
+  "320x568": {
+    "Small": {
+      "width": 141,
+      "height": 141
+    },
+    "Medium": {
+      "width": 292,
+      "height": 141
+    },
+    "Large": {
+      "width": 292,
+      "height": 311
+    },
+    "Circular": "",
+    "Rectangular": "",
+    "Inline": ""
+  }
+}
